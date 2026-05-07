@@ -1,5 +1,10 @@
 # NeferQuality
 This use case represents a radical shift from limited, error-prone human inspection to ad- vanced Artificial Intelligence (AI) systems that ensure product quality on production lines.
+
+
+# DEMO LINK : https://drive.google.com/file/d/17c6qYu2C-dTdkFi9ejdZC65Sr8wiX2XY/view?usp=sharing
+
+
 # Quality Control Classifier
 
 ## Overview
